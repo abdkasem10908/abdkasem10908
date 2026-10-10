@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**abdkasem10908/abdkasem10908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abdkasem10908/abdkasem10908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Cybersecurity & Network Security Glossary
 
